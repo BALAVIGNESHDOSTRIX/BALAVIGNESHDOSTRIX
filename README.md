@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## GitHub Stats&#x1f4c8; 
+</samp>
+<a href="https://github.com/BALAVIGNESHDOSTRIX">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=tokyonight"/>
+</a>
 
-[![BALAVIGNESH GitHub stats](https://github-readme-stats.vercel.app/api?username=BALAVIGNESHDOSTRIX&show_icons=true&theme=tokyonight)](https://github.com/BALAVIGNESHDOSTRIX)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/BALAVIGNESHDOSTRIX)
+<a href="https://github.com/BALAVIGNESHDOSTRIX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=BALAVIGNESHDOSTRIX&show_icons=true&theme=tokyonight&line_height=27" alt="Balavignesh github stats"/>
+</a>
