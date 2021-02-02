@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    I'm <a href="https://www.linkedin.com/in/juliusbala-infidos007/">Balavignesh</a> working as a Python software Developer and worked as nodejs backend developer. I love to code:computer:. </samp>
+    I'm <a href="https://www.linkedin.com/in/juliusbala-infidos007/">Balavignesh</a> working as a Python software Developer and worked as nodejs backend developer. I love to   code:computer:. </samp>
 </p>    
 
 ## About me<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -10,6 +10,10 @@
 - 🌱 I’m currently learning ML, Datascience
 - 💬 Ask me about Python Related stuff, ORM, Blockchain, IPFS, ERP & CRM
 - 📫 How to reach me: crystelpheonix@gmail.com
+
+## Skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
+
+***Programming Languages***:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Python2.7,3+:snake:, Javascript, Java, c
 
 
 ## GitHub Stats&#x1f4c8; 
