@@ -1,19 +1,17 @@
 ### Hi there 👋
 
-<!--
-**BALAVIGNESHDOSTRIX/BALAVIGNESHDOSTRIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+    I'm <a href="https://www.linkedin.com/in/juliusbala-infidos007/">Balavignesh</a> working as a Python software Developer and worked as nodejs backend developer. I love to code:computer:. </samp>
+</p>    
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## About me<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+- 🔭 I’m currently working as Python ERP-Apps developer
+- 🌱 I’m currently learning ML, Datascience
+- 💬 Ask me about Python Related stuff, ORM, Blockchain, IPFS, ERP & CRM
+- 📫 How to reach me: crystelpheonix@gmail.com
 - ⚡ Fun fact: ...
--->
+
 ## GitHub Stats&#x1f4c8; 
 </samp>
 <a href="https://github.com/BALAVIGNESHDOSTRIX">
