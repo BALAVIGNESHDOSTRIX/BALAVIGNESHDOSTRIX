@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning ML, Datascience
 - 💬 Ask me about Python Related stuff, ORM, Blockchain, IPFS, ERP & CRM
 - 📫 How to reach me: crystelpheonix@gmail.com
-- ⚡ Fun fact: ...
+
 
 ## GitHub Stats&#x1f4c8; 
 </samp>
