@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BALAVIGNESHDOSTRIX&show_icons=true&theme=tokyonight&line_height=27" alt="Balavignesh github stats"/>
 
 <a href="https://github.com/BALAVIGNESHDOSTRIX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=tokyonight&layout=compact?hide=javascript,html"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=tokyonight&layout=compact&hide=javascript,html"/>
 </a>
 
 </a>
