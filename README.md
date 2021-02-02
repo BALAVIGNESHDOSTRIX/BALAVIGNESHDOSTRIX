@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![BALAVIGNESH GitHub stats](https://github-readme-stats.vercel.app/api?username=BALAVIGNESHDOSTRIX&show_icons=true&theme=tokyonight)](https://github.com/BALAVIGNESHDOSTRIX)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/BALAVIGNESHDOSTRIX)
