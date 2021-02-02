@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## GitHub Stats&#x1f4c8; 
 </samp>
 <a href="https://github.com/BALAVIGNESHDOSTRIX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=tokyonight&layout=compact"/>
 </a>
 
 <a href="https://github.com/BALAVIGNESHDOSTRIX">
