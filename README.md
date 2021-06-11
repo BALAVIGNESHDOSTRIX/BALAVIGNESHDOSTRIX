@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as Python ERP-Apps developer
 - 🌱 I’m currently learning ML, Datascience
 - 💬 Ask me about Python Related stuff, ORM, Blockchain, IPFS, ERP & CRM
-- 📫 How to reach me: medusadostrix@gmail.com
+- 📫 How to reach me: crystelpheonix@gmail.com
 
 ## Skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
 
