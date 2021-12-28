@@ -13,7 +13,7 @@
 
 ## Skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
 
-***Technologies***:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Python2.7,3+:snake:,ML,Deep Learning, NLP, Javascript, Java, c, Design Patterns, System Design, Reactjs, ERP & CRM
+***Technologies***:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Python2.7,3+:snake:,C,ML,Deep Learning, NLP, Javascript, Design Patterns, System Design, Reactjs, ERP & CRM
 
 
 ## GitHub Stats&#x1f4c8; 
