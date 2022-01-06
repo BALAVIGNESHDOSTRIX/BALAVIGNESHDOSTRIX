@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    I'm <a href="https://www.linkedin.com/in/juliusbala-infidos007/">Balavignesh</a> working as a Python software Developer and worked as nodejs backend developer. I love to   code:computer:. </samp>
+    I'm <a href="https://www.linkedin.com/in/juliusbala-infidos007/">Balavignesh</a> working as a Python software Developer, backend engineer and worked as nodejs backend developer. I love to   code:computer:. </samp>
 </p>    
 
 ## About me<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
