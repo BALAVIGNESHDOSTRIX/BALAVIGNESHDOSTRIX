@@ -11,7 +11,7 @@
 - 🔭 I’m currently working as a Python Developer
 - 🌱 I’m  DataScience & Quantum Computing Enthusiast 
 - 💬 Ask me about Python Related stuff, ORM, Blockchain, IPFS, ERP & CRM, Quantum Computing
-- 📫 How to reach me: crystelpheonix@gmail.com
+- 📫 How to reach me: inmortaliumpheonix@gmail.com
 
 ## Skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
 
