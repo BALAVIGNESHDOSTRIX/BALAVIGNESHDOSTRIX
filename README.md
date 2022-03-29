@@ -8,7 +8,7 @@
 </p>    
 
 ## About me<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-- 🔭 I’m currently working as a Python Developer
+- 🔭 I’m Software Freelancer
 - 🌱 I’m  DataScience & Quantum Computing Enthusiast 
 - 💬 Ask me about Python Related stuff, ORM, Blockchain, IPFS, ERP & CRM, Quantum Computing
 - 📫 How to reach me: medusachiitari@gmail.com
