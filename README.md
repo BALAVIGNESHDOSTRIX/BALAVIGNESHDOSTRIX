@@ -12,7 +12,25 @@
 - 🌱 I’m  DataScience & Quantum Computing Enthusiast 
 - 💬 Ask me about Python Related stuff, ORM, Blockchain, IPFS, ERP & CRM, Quantum Computing
 - 📫 How to reach me: medusachiitari@gmail.com
-- Follow me: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=juliusbala-infidos007
+- Follow me: 
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=juliusbala-infidos007" target="_blank">Follow on LinkedIn</a>
 
 ## Skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
 
