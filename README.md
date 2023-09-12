@@ -11,7 +11,7 @@
 - 🔭 I’m Software Freelancer
 - 🌱 I’m  DataScience & Quantum Computing Enthusiast 
 - 💬 Ask me about Python Related stuff, ORM, Blockchain, IPFS, ERP & CRM, Quantum Computing
-- 📫 How to reach me: medusachiitari@gmail.com
+- 📫 How to reach me: balavignesh@infidos.com
 - Follow me: <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=juliusbala-infidos007" target="_blank">Follow on LinkedIn</a>
 
 ## Skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
